@@ -51,9 +51,14 @@ nav a {
     border-radius: 10px;
 }
 
+#welcome {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
 .welcome-message {
     text-align: center;
-    margin: 50px;
+    margin: 50px auto 0;
 }
 
 #products {
@@ -71,6 +76,7 @@ nav a {
     box-sizing: border-box;
     border-radius: 70px;
     height: 10rem;
+    text-align: center;
 }
 
 footer {
